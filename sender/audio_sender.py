@@ -18,6 +18,9 @@ def on_button_pressed_a():
                 # . . . #
                 . # # # .
     """)
+    basic.pause(5000)
+    strip.show_color(neopixel.colors(NeoPixelColors.BLACK))
+    basic.clear_screen()
 input.on_button_pressed(Button.A, on_button_pressed_a)
 
 snd_lvl = 0
