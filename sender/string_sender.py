@@ -11,7 +11,7 @@ def on_button_pressed_ab():
 def on_received_string(receivedString):
     global signal, strip, string_to_sort, state
     signal = radio.received_packet(RadioPacketProperty.SIGNAL_STRENGTH)
-    if signal > -55:
+    if signal > -65:
         my_list= string_to_sort.upper().split()
         my_list.sort()
         sorted_string = "".join(my_list)
