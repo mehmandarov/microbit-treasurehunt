@@ -9,7 +9,9 @@ This is how we play this game:
 2. You have to build a receiver 📶 to look for the devices.
     - Scroll down to the [`Receiver 📶`](#receiver-) section for pointers.
 3. Take a picture of the sender 📡 beacon showing that you have accomplished your task.
-    - The [`Sender 📡`](#sender-) beacon will typically have the green lights on for 5 seconds or display "OK" or another icon.
+    - The [`Sender 📡`](#sender-) beacon will typically have the green lights on for 5 seconds or display "OK" or another icon. 
+    - Please note that not all sender beacons have the green lights mounted. Use a receiver to look for them.
+    - Make sure you are looking for the senders by scannong for packages on the right channel.
 
 ## Setup 🛠
 We are using:
