@@ -16,6 +16,11 @@ We are using:
 * micro:bit ([homepage](https://microbit.org/))
 * DFRobot micro:bit Circular RGB Expansion board v2.0 ([docs](https://wiki.dfrobot.com/Micro_bit_Circular_RGB_LED_Expansion_Board_SKU__ROB0150))
 
+## Getting Started
+* _(optional)_ Unpack micro:bit
+* _(optional)_ Assmble DFRobot micro:bit Circular RGB Expansion board v2.0
+* Get acquinted with [Treasure Hunt](https://microbit.org/projects/make-it-code-it/treasure-hunt/) code for pointers for your receiver.
+
 ## Sender 📡
 1. There are several sending beacons hidden somewhere around you. 
 2. Ask organisers how many beacons are hidden out there.
