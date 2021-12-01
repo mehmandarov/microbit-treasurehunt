@@ -19,9 +19,13 @@ We are using:
 * DFRobot micro:bit Circular RGB Expansion board v2.0 ([docs](https://wiki.dfrobot.com/Micro_bit_Circular_RGB_LED_Expansion_Board_SKU__ROB0150))
 
 ## Getting Started
-* _(optional)_ Unpack the micro:bit.
-* _(optional)_ Assemble the DFRobot micro:bit Circular RGB Expansion board v2.0.
+* _(Optional)_ Unpack the micro:bit.
+* _(Optional)_ Assemble the DFRobot micro:bit Circular RGB Expansion board v2.0.
 * Get acquainted with [Treasure Hunt](https://microbit.org/projects/make-it-code-it/treasure-hunt/) code for pointers for your receiver. This is not the same code we are using on our sending beacons, but it is inspired by it.
+* Deploying your code: 
+    - You can use https://makecode.microbit.org/ as an editor.
+    - You can program using blocks, Python, or JavaSript.
+    - Download the file and copy it to the micro:bit. That's it.
 
 ## Sender 📡
 1. There are several sending beacons hidden somewhere around you. 
@@ -33,9 +37,10 @@ You need to implement a set of basic functions on your receiver beacon (in addit
 
 Pseudocode for the receiver beacon:
 1. Scan for packages on channel X (typically 1 to 7) and show signal strength.
-2. If the signal strength is larger than `-65` print the message that is being transmitted on your micro:bit.
-3. The message you receive will tell you what to do.
-4. Locate the sending beacon (yes, physically find it!) and do what you have been told in the previous step.
+    - _(Optional)_ Use the LED ring to show spinning lights when you are receiving packages.
+3. If the signal strength is larger than `-65` print the message that is being transmitted on your micro:bit.
+4. The message you receive will tell you what to do.
+5. Locate the sending beacon (yes, physically find it!) and do what you have been told in the previous step.
     - It can be something you need to do on the sending beacon.
     - It can be something you need to code on your receiver.
 
