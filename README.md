@@ -38,4 +38,4 @@ Pseudocode for the receiver beacon:
     - It can be something you need to code on your receiver
 
 ## Bugs?
-Bugs happen. Let us know if you encounter bug, by creating an [issue](https://github.com/mehmandarov/microbit-treasurehunt/issues) or submitting a [PR](https://github.com/mehmandarov/microbit-treasurehunt/pulls). 🙌
+Bugs _may_ happen. Let us know if you encounter a bug, by creating an [issue](https://github.com/mehmandarov/microbit-treasurehunt/issues) or submitting a [PR](https://github.com/mehmandarov/microbit-treasurehunt/pulls). 🙌
