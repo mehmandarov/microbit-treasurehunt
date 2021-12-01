@@ -47,5 +47,5 @@ Pseudocode for the receiver beacon:
 ## Bugs?
 Bugs happen. Let us know if you encounter a bug or have a feature request, by creating an [issue](https://github.com/mehmandarov/microbit-treasurehunt/issues) or submitting a [PR](https://github.com/mehmandarov/microbit-treasurehunt/pulls). 🙌
 
-## Found them all?
-If you want to continue playing with Micro:bits, you may create your own sender to add to future treasure hunts. You are also welcome to submit ideas for new senders without implementing them yourself. 
+## Found Them All?
+If you want to continue playing with micro:bits, you may create your own sender and add to the future treasure hunts. You are also welcome to submit [ideas](https://github.com/mehmandarov/microbit-treasurehunt/issues) for new senders without implementing them yourself.
