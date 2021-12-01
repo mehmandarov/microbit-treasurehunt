@@ -19,12 +19,12 @@ We are using:
 ## Getting Started
 * _(optional)_ Unpack micro:bit
 * _(optional)_ Assmble DFRobot micro:bit Circular RGB Expansion board v2.0
-* Get acquinted with [Treasure Hunt](https://microbit.org/projects/make-it-code-it/treasure-hunt/) code for pointers for your receiver.
+* Get acquinted with [Treasure Hunt](https://microbit.org/projects/make-it-code-it/treasure-hunt/) code for pointers for your receiver. This is not the same code we are using on our sending beacons, but it is inspured by it.
 
 ## Sender 📡
 1. There are several sending beacons hidden somewhere around you. 
 2. Ask organisers how many beacons are hidden out there.
-3. All beacons are broadcasting a message on one of the channels between 1 and 6. Assume this unless you are told otherwise.
+3. All beacons are broadcasting a message on one of the channels between 1 and 7. Assume this unless you are told otherwise.
 
 ## Receiver 📶
 You need to implement a set of basic functions on your receiver beacon (in addition to functions that you might be told by the sender beacon you might find).
@@ -36,3 +36,6 @@ Pseudocode for the receiver beacon:
 4. Locate the sending beacon (yes, physically find it!) and do what you have been told in the previous step.
     - It can be something you need to do on the sending beacon
     - It can be something you need to code on your receiver
+
+## Bugs?
+Bugs happen. Let us know if you encounter bug, by creating an [issue](https://github.com/mehmandarov/microbit-treasurehunt/issues) or submitting a [PR](https://github.com/mehmandarov/microbit-treasurehunt/pulls). 🙌
