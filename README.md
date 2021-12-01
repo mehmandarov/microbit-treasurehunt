@@ -31,7 +31,7 @@ You need to implement a set of basic functions on your receiver beacon (in addit
 
 Pseudocode for the receiver beacon:
 1. Scan for packages on channel X (typically 1 to 6) and show signal strength.
-2. If the signal strength is larger than `-50` print the message that is being transmitted on your micro:bit.
+2. If the signal strength is larger than `-65` print the message that is being transmitted on your micro:bit.
 3. The message you receive will tell you what to do.
 4. Locate the sending beacon (yes, physically find it!) and do what you have been told in the previous step.
     - It can be something you need to do on the sending beacon
