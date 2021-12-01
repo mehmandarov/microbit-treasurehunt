@@ -1,15 +1,15 @@
 # Micro:Bit Treasure Hunt
 
-Welcome to the treasure hunt game with micro:bits!
+### Welcome to the treasure hunt game with micro:bits!
 
 This is how we play this game:
 1. We have a set of micro:bits set up as senders 📡 hidden somewhere.
     - These devices are set up by the game organisers before we start.
     - We tell you the number of devices you need to find.
 2. You have to build a receiver 📶 to look for the devices.
-    - Scroll down to the `Receiver 📶` section for pointers.
+    - Scroll down to the [`Receiver 📶`](#receiver-) section for pointers.
 3. Take a picture of the sender 📡 beacon showing that you have accomplished your task.
-    - The sender 📡 beacon will typically have the green lights on for 5 seconds or display "OK" or another icon.
+    - The [`Sender 📡`](#sender-) beacon will typically have the green lights on for 5 seconds or display "OK" or another icon.
 
 ## Setup 🛠
 We are using:
