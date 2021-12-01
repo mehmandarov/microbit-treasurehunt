@@ -3,7 +3,7 @@
 Welcome to the treasure hunt game with micro:bits!
 
 This is how we play this game:
-1. We have a set of micro:bits set up as senders 📡 hidden somewhere
+1. We have a set of micro:bits set up as senders 📡 hidden somewhere.
     - These devices are set up by the game organisers before we start.
     - We tell you the number of devices you need to find.
 2. You have to build a receiver 📶 to look for the devices.
@@ -17,8 +17,8 @@ We are using:
 * DFRobot micro:bit Circular RGB Expansion board v2.0 ([docs](https://wiki.dfrobot.com/Micro_bit_Circular_RGB_LED_Expansion_Board_SKU__ROB0150))
 
 ## Getting Started
-* _(optional)_ Unpack micro:bit
-* _(optional)_ Assmble DFRobot micro:bit Circular RGB Expansion board v2.0
+* _(optional)_ Unpack the micro:bit.
+* _(optional)_ Assmble the DFRobot micro:bit Circular RGB Expansion board v2.0.
 * Get acquinted with [Treasure Hunt](https://microbit.org/projects/make-it-code-it/treasure-hunt/) code for pointers for your receiver. This is not the same code we are using on our sending beacons, but it is inspured by it.
 
 ## Sender 📡
@@ -34,8 +34,8 @@ Pseudocode for the receiver beacon:
 2. If the signal strength is larger than `-65` print the message that is being transmitted on your micro:bit.
 3. The message you receive will tell you what to do.
 4. Locate the sending beacon (yes, physically find it!) and do what you have been told in the previous step.
-    - It can be something you need to do on the sending beacon
-    - It can be something you need to code on your receiver
+    - It can be something you need to do on the sending beacon.
+    - It can be something you need to code on your receiver.
 
 ## Bugs?
 Bugs _may_ happen. Let us know if you encounter a bug, by creating an [issue](https://github.com/mehmandarov/microbit-treasurehunt/issues) or submitting a [PR](https://github.com/mehmandarov/microbit-treasurehunt/pulls). 🙌
